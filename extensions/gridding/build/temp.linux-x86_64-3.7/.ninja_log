@@ -1,0 +1,4 @@
+# ninja log v5
+4	27197	1672853197647096130	/home/featurize/work/PoinTr-master/extensions/gridding/build/temp.linux-x86_64-3.7/gridding_cuda.o	7c4ddc067a3e201d
+5	49646	1672853220101670508	/home/featurize/work/PoinTr-master/extensions/gridding/build/temp.linux-x86_64-3.7/gridding.o	c188294419161eae
+5	50653	1672853221109651402	/home/featurize/work/PoinTr-master/extensions/gridding/build/temp.linux-x86_64-3.7/gridding_reverse.o	75faa3dcdaa1a1ae

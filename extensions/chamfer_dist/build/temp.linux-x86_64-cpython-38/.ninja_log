@@ -1,0 +1,5 @@
+# ninja log v5
+3	42296	1672916683692292996	/home/featurize/work/PoinTr-master/extensions/chamfer_dist/build/temp.linux-x86_64-cpython-38/chamfer_cuda.o	90fe49d536acf3d6
+3	75895	1672916717315660918	/home/featurize/work/PoinTr-master/extensions/chamfer_dist/build/temp.linux-x86_64-cpython-38/chamfer.o	89993fd98f8bd6ff
+13	44963	1683864059580016590	/home/featurize/work/PoinTr/extensions/chamfer_dist/build/temp.linux-x86_64-cpython-38/chamfer_cuda.o	7ad1023012abbde2
+12	79392	1683864094011391280	/home/featurize/work/PoinTr/extensions/chamfer_dist/build/temp.linux-x86_64-cpython-38/chamfer.o	ba7513fb916bf994

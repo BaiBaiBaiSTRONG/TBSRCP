@@ -1,0 +1,5 @@
+# ninja log v5
+4	35074	1672916758040895314	/home/featurize/work/PoinTr-master/extensions/cubic_feature_sampling/build/temp.linux-x86_64-cpython-38/cubic_feature_sampling_cuda.o	8a4fd77d480e7442
+3	69238	1672916792220252751	/home/featurize/work/PoinTr-master/extensions/cubic_feature_sampling/build/temp.linux-x86_64-cpython-38/cubic_feature_sampling.o	497453ae4b5d7fbd
+13	32319	1683864137565600348	/home/featurize/work/PoinTr/extensions/cubic_feature_sampling/build/temp.linux-x86_64-cpython-38/cubic_feature_sampling_cuda.o	11c85a0876ea4ac5
+12	67854	1683864173097955139	/home/featurize/work/PoinTr/extensions/cubic_feature_sampling/build/temp.linux-x86_64-cpython-38/cubic_feature_sampling.o	5fe30f6e5b6103d0

@@ -1,0 +1,15 @@
+NAME: PCN
+CATEGORY_FILE_PATH:   /home/featurize/data/CartoonDatasetNormalized/cartoon.json
+N_POINTS: 499 
+N_RENDERINGS: 8
+PARTIAL_POINTS_PATH:  /home/featurize/data/CartoonDatasetNormalized/%s/partial/%s/%s/%02d.pcd
+COMPLETE_POINTS_PATH: /home/featurize/data/CartoonDatasetNormalized/%s/complete/%s/%s.pcd
+CARS: FALSE
+
+# NAME: PCN
+# CATEGORY_FILE_PATH: data/PCN/PCN.json
+# N_POINTS: 16384
+# N_RENDERINGS: 8
+# PARTIAL_POINTS_PATH: data/PCN/%s/partial/%s/%s/%02d.pcd
+# COMPLETE_POINTS_PATH: data/PCN/%s/complete/%s/%s.pcd
+# CARS: FALSE

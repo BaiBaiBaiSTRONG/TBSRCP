@@ -1,0 +1,7 @@
+# ninja log v5
+2	35518	1672916832386497616	/home/featurize/work/PoinTr-master/extensions/gridding/build/temp.linux-x86_64-cpython-38/gridding_cuda.o	4df9a052593990c6
+1	69821	1672916866700852482	/home/featurize/work/PoinTr-master/extensions/gridding/build/temp.linux-x86_64-cpython-38/gridding.o	f2fef3cecdc6a1a1
+3	70902	1672916867777832234	/home/featurize/work/PoinTr-master/extensions/gridding/build/temp.linux-x86_64-cpython-38/gridding_reverse.o	2374f41de78b30bf
+32	35161	1683864214058211422	/home/featurize/work/PoinTr/extensions/gridding/build/temp.linux-x86_64-cpython-38/gridding_cuda.o	f4a34338ed759c23
+32	67359	1683864246268626616	/home/featurize/work/PoinTr/extensions/gridding/build/temp.linux-x86_64-cpython-38/gridding_reverse.o	e7f7f034b624fbed
+31	68507	1683864247411605865	/home/featurize/work/PoinTr/extensions/gridding/build/temp.linux-x86_64-cpython-38/gridding.o	11715be6fb5860fd
